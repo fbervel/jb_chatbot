@@ -1,2 +1,2 @@
-# jbrains_projetc1
-Repositorio de proyecyo inicial "Desarrollador Python"
+# jb_chatbot
+Repositorio de proyecto inicial "Desarrollador Python"
